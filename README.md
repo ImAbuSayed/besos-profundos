@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-profundos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos profundos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-profundos/) |
+| **Get License** | [Request Licensing for Besos profundos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-profundos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Besos profundos bajo la luz de neón
+> Bailando suave sin pedir perdón
+> Esta noche la calle es de los dos
+> Pegao' al ritmo, perdiendo la voz
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
