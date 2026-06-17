@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos profundos
+
+This log tracks the cryptographic history and versioning for the song **Besos profundos** (besos-profundos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:47:28.826071 | `v1` | `9b1981bdf046cbd930570d4ebe21aae4961c97b54e545e3525db178d87c39126` | `c93730f385bc96cc03b242465ec135c41efa1d61bd5fe1be26be984134dc50ad` | `2026-06-17_besos-profundos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
